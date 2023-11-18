@@ -10,4 +10,5 @@ Realtime chat app using socket.io and vanilla JavaScript
 `npm install socket.io` to install socket.io.
 
 
-![image](https://github.com/Avinash8225048544/Realtime-chat-app/assets/78852355/1d4cc9e6-bde9-4373-9fd1-cd70ab522fd7)
+![image](https://github.com/Avinash8225048544/Realtime-chat-app/assets/78852355/0fee7c1d-8cd9-4406-aedc-be76a52fd162)
+
