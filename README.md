@@ -1,3 +1,7 @@
+
+# Live URL
+https://real-time-chat-app-avinash.onrender.com/
+
 # realtime-chat-app
 Realtime chat app using socket.io and vanilla JavaScript
 
